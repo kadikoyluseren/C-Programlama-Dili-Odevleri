@@ -1,0 +1,4 @@
+﻿  HW1AP16253037.c
+c:\users\lenovo\desktop\c ödevİ\hw1ap16253037\hw1ap16253037\hw1ap16253037.c(9): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HW1AP16253037.vcxproj -> C:\Users\Lenovo\Desktop\C ÖDEVİ\HW1AP16253037\Debug\HW1AP16253037.exe
+  HW1AP16253037.vcxproj -> C:\Users\Lenovo\Desktop\C ÖDEVİ\HW1AP16253037\Debug\HW1AP16253037.pdb (Full PDB)
